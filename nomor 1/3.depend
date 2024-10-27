@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730001230 source:d:\magang rival\kinematika (lategame)\3\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+
